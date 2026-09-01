@@ -17,6 +17,11 @@ L'objectif est d'obtenir une installation reproductible de Nagios avec visualisa
 
 -----------
 
+Login nagios : nagiosadmin / ChangeMe123!
+Login nagvis : admin / admin
+
+-----------
+
 Les composants installés par ce projet conservent leurs licences respectives.
 Consultez les projets officiels Nagios Core, NagVis et Checkmk/MK Livestatus pour leurs conditions de licence.
 
