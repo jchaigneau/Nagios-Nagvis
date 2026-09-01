@@ -81,6 +81,7 @@ apt-get update
 
 apt-get install -y \
     passwd \
+    unzip \
     ca-certificates \
     wget \
     curl \
